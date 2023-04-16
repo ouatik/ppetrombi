@@ -78,3 +78,6 @@ PPE 1
 > 
 
 ## Partie 5 : Hébergement de l’application et sécurisation du code déployé
+[PPE_1_MPD.pdf](https://github.com/ouatik/ppetrombi/files/11244715/PPE_1_MPD.pdf)
+[PPE_1_MCD.pdf](https://github.com/ouatik/ppetrombi/files/11244716/PPE_1_MCD.pdf)
+[PPE_1_MLD.pdf](https://github.com/ouatik/ppetrombi/files/11244717/PPE_1_MLD.pdf)
